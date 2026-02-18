@@ -1,0 +1,7 @@
+{
+  "name": "Copy of EcoHealth AI - Outbreak Prediction",
+  "description": "A professional AI-driven system for predicting environmental and historical disease outbreaks using advanced analytics and Gemini AI insights.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
